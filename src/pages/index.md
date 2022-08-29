@@ -1,11 +1,11 @@
 ---
 layout: "../layouts/Layout.astro"
-name: Jane Doe
-image: "./avatar_hat.jpg"
-function: Designer
-address: London, UK
-email: ex@mail.com
-telephone: "1224435534"
+name: Fatouma
+image: "/public/fatouma.jpeg"
+function: Developpeur
+address: Djibouti
+email: fatoumamoud414@gmail.com
+telephone: "77292528"
 skills:
 - name: Adobe Photoshop
   percentage: 90
